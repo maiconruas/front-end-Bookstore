@@ -1,0 +1,16 @@
+.container{
+    height: 85%;
+    background-color:rgb(24, 23, 23);
+}
+
+i{
+    padding-right: .6rem;
+}
+
+.mat-sidenav{
+    background-color:rgb(44, 44, 44) ;
+}
+
+.mat-list-item{
+    color: azure;
+}

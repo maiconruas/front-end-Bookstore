@@ -1,0 +1,20 @@
+.home{
+    width: 95%;
+    margin: 1rem auto;
+    color: azure;
+    background-color: rgb(44, 44, 44);
+}
+.subtitle{
+    color: azure;
+}
+
+@media(max-width: 450px){
+    .home{
+        width: 70%;
+    }
+}
+@media(max-width: 770px){
+    .home{
+        width: 80%;
+    }
+}
